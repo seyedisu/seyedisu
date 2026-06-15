@@ -18,7 +18,7 @@
 
 > I sit at the intersection where **economics meets code** — and I actually like it there.
 
-I'm Seyed Parsa. By training, an economist. By obsession, a programmer. Code *converges*. Economics *diverges*. I build at the edge where both are true
+I'm Seyed. By training, an economist. By obsession, a programmer. Code *converges*. Economics *diverges*. I build at the edge where both are true
 
 ---
 
