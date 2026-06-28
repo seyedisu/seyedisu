@@ -90,6 +90,8 @@ Always interested in:
 ```
 Short term ──────────────────────────────────────
   → BT.FW:IvsI0x1F0‌41C0‌6FF0A2‌0‌2‌81E0‌416‌05
+  → learn AI
+  → Basijisu.ir
   → 
 
 Long term ───────────────────────────────────────
