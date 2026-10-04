@@ -105,7 +105,9 @@ Long term ───────────────────────�
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/this.is.seyed.parsa)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seyedisu)
+[![Bale](https://img.shields.io/badge/bale-0CBC8D)](https://ble.ir/seyedisu)
+[![Seyedisu.ir](https://img.shields.io/badge/website-orange)](https://seyedisu.ir)
 
 </div>
 
